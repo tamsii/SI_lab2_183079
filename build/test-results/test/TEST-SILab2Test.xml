@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SILab2Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-06-11T10:55:01" hostname="DESKTOP-QE6T1RQ" time="0.042">
+  <properties/>
+  <testcase name="EachStatementTests()" classname="SILab2Test" time="0.035"/>
+  <testcase name="MultipleConditionTests()" classname="SILab2Test" time="0.005"/>
+  <system-out><![CDATA[Initializing the expected paramethars 
+The tests are done
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

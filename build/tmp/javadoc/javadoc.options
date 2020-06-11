@@ -1,0 +1,7 @@
+-classpath 'D:\\FINKI\\4ti_semestar\\SI\\lab2\\SI_lab2_183079\\build\\classes\\java\\main;D:\\FINKI\\4ti_semestar\\SI\\lab2\\SI_lab2_183079\\build\\resources\\main'
+-d 'D:\\FINKI\\4ti_semestar\\SI\\lab2\\SI_lab2_183079\\build\\docs\\javadoc'
+-doctitle 'SI_Lab2 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'SI_Lab2 1.0-SNAPSHOT API'
+'D:\\FINKI\\4ti_semestar\\SI\\lab2\\SI_lab2_183079\\src\\main\\java\\SILab2.java'
